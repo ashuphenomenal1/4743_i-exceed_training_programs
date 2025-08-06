@@ -1,4 +1,3 @@
-
 class student
 {
     String name;
@@ -11,6 +10,7 @@ class student
 	   this.name=name;
 	   this.age=age;
 	   this.dept=dept;
+       this.college=college;
 	}
  
     public void displayStudent()
